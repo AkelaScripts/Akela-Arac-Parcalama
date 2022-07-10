@@ -1,2 +1,2 @@
-# Akela-Arac-Parcalama
-Fivem için hazırlamış olduğum bir araç parçalama scriptidir
+# Bu script Akela tarafından hazırlanmıştır.
+İletişim için discord: Zaitsev#3636
